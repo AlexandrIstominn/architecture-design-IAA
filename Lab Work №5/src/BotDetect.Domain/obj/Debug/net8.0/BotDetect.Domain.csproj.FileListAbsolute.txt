@@ -1,0 +1,11 @@
+D:\University\BotDetect\src\BotDetect.Domain\bin\Debug\net8.0\BotDetect.Domain.deps.json
+D:\University\BotDetect\src\BotDetect.Domain\bin\Debug\net8.0\BotDetect.Domain.dll
+D:\University\BotDetect\src\BotDetect.Domain\bin\Debug\net8.0\BotDetect.Domain.pdb
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\BotDetect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\BotDetect.Domain.AssemblyInfoInputs.cache
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\BotDetect.Domain.AssemblyInfo.cs
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\BotDetect.Domain.csproj.CoreCompileInputs.cache
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\BotDetect.Domain.dll
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\refint\BotDetect.Domain.dll
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\BotDetect.Domain.pdb
+D:\University\BotDetect\src\BotDetect.Domain\obj\Debug\net8.0\ref\BotDetect.Domain.dll

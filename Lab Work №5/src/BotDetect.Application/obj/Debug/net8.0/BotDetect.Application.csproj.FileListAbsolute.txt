@@ -1,0 +1,15 @@
+D:\University\BotDetect\src\BotDetect.Application\bin\Debug\net8.0\BotDetect.Application.deps.json
+D:\University\BotDetect\src\BotDetect.Application\bin\Debug\net8.0\BotDetect.Application.dll
+D:\University\BotDetect\src\BotDetect.Application\bin\Debug\net8.0\BotDetect.Application.pdb
+D:\University\BotDetect\src\BotDetect.Application\bin\Debug\net8.0\BotDetect.Domain.dll
+D:\University\BotDetect\src\BotDetect.Application\bin\Debug\net8.0\BotDetect.Domain.pdb
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.csproj.AssemblyReference.cache
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.AssemblyInfoInputs.cache
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.AssemblyInfo.cs
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.csproj.CoreCompileInputs.cache
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetec.B80F2965.Up2Date
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.dll
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\refint\BotDetect.Application.dll
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\BotDetect.Application.pdb
+D:\University\BotDetect\src\BotDetect.Application\obj\Debug\net8.0\ref\BotDetect.Application.dll

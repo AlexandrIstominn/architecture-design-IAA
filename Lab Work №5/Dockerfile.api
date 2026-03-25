@@ -1,0 +1,24 @@
+# Сборка
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+COPY BotDetect.sln ./
+COPY src/BotDetect.Api/BotDetect.Api.csproj src/BotDetect.Api/
+COPY src/BotDetect.Application/BotDetect.Application.csproj src/BotDetect.Application/
+COPY src/BotDetect.Domain/BotDetect.Domain.csproj src/BotDetect.Domain/
+COPY src/BotDetect.Infrastructure/BotDetect.Infrastructure.csproj src/BotDetect.Infrastructure/
+
+RUN dotnet restore src/BotDetect.Api/BotDetect.Api.csproj
+
+COPY . .
+RUN dotnet restore src/BotDetect.Api/BotDetect.Api.csproj && dotnet publish src/BotDetect.Api/BotDetect.Api.csproj -c Release -o /app/publish --no-restore
+
+# Запуск
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/publish .
+
+ENV ASPNETCORE_URLS=http://+:5000
+EXPOSE 5000
+
+ENTRYPOINT ["dotnet", "BotDetect.Api.dll"]
