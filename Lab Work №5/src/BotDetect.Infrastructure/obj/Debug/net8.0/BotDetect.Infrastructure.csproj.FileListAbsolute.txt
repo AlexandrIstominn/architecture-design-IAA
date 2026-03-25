@@ -1,0 +1,17 @@
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Infrastructure.deps.json
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Infrastructure.dll
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Infrastructure.pdb
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Application.dll
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Domain.dll
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Application.pdb
+D:\University\BotDetect\src\BotDetect.Infrastructure\bin\Debug\net8.0\BotDetect.Domain.pdb
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.csproj.AssemblyReference.cache
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.AssemblyInfoInputs.cache
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.AssemblyInfo.cs
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.csproj.CoreCompileInputs.cache
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetec.BD7E4881.Up2Date
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.dll
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\refint\BotDetect.Infrastructure.dll
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\BotDetect.Infrastructure.pdb
+D:\University\BotDetect\src\BotDetect.Infrastructure\obj\Debug\net8.0\ref\BotDetect.Infrastructure.dll
